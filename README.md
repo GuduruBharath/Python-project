@@ -1,2 +1,2 @@
 # Python-project
-This is an example project to demonstrate the use of git on ubuntu.
+Hello World Welcome !
