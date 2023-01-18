@@ -1,1 +1,4 @@
-print ("Handsome boy Vikas")
+def main (msg):
+    print(msg)
+    
+main("Hello World")
